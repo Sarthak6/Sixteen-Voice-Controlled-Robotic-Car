@@ -1,4 +1,4 @@
 # SIXT33N
-Voice controlled car with 4 different driving modes Built both the front end circuit component which powers the car and integrated it with the backend that handles movement parameters and voice commands through an unsupervised machine learning algorithm.
+Voice controlled car which responds to 4 different commands for 4 different driving modes. Built the front end circuit which powers the car and integrated this frontend circuit with the backend that handles movement parameters and voice commands using PCA, K-NN Clustering, and other techniques.
 
-Technologies Used: C++, iPython, Arduino, Energia.
+Skills Used: C++, iPython, Arduino, Energia.
